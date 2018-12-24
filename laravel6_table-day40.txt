@@ -1,0 +1,173 @@
+tableta jquery ar akta plugin diye kora hoise...
+
+
+jquery ar data table ata....
+
+
+onekgula user toiri korta dekhaben sir..factory setup diye kora lage..
+
+***** ki ki errror exception dekhay ta valo kore porba....
+
+
+route ar vetor au oi idtake dhorte hobe, mane edit a korle jei id jaache oitau oi route a ante hobe,
+
+tar jonno:
+
+edit-category/{jekono nam}  avabe dite hobe...
+
+
+blade ar oikhane oita concat kore id ta diye disi...
+
+
+Category:: mane hocche category class ar object ...
+
+
+where hocche function..
+
+1st id ta hocceh database ar column ar nam,porerta hocche oikhane je variableta shetar nam...
+
+*** akta return korar jonno use hoy first ar akdhik return ar jonno use hoy get....
+
+akahne id ar maddhome akta row anbo tai first ar jodi 10ta ba 20ta ashto tahole get...
+
+
+akhane aktar jonno variable ar nam category....
+
+
+'category' aitar access pabo ai filetar moddhe....
+
+
+publication ar jonno age akta name dite hobe form ar...
+pore ata script ar moddhe likhe dite hobe...avabe:
+
+
+document.forms['editCategoryForm'].elements['publicationStatus'].value={{$category->publicationStatus}}
+
+
+*** jokhon amra kono akta categoryke tule niye ashe shetake value akare kono akta view page a pathabo tokhon use korbo where() ....
+
+
+ar  jokhon kono category tule niye ashe object akare use korbo tokhon use korbo find()......
+
+
+
+Category model class ar object hocche giye $category...id ta hocche category table ar id ta...
+
+
+Request class ar kaj hocche input field ar valuegulake niye asha..
+
+
+1st a akta object banano hocche idgulake niye...
+
+
+id tar object toiri kore sheta variable ar moddhe pathabe aii....
+
+
+
+onclick a confirm function diye akta messgae dewa jay ja row phpte chilo......
+
+
+pore database a factory ar seeds diyeu databse toiri kora jay akta command diye tau dekhay diben sir...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
